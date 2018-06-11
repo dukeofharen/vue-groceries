@@ -25,6 +25,7 @@ export default {
     }
 }
 </script>
+<!-- Scoped is used when you only want to apply these styles to this specific component. -->
 <style scoped>
 li {
     color: red;
